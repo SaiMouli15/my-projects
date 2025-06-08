@@ -16,6 +16,10 @@ body {
 
 .navbar {
     background: #F8F5E9;
+    position:sticky;
+    top:10px;
+    background-color:aqua;
+    margin:0px 10px 0 10px;
 }
 
 p {
